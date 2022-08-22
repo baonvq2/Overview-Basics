@@ -1,0 +1,5 @@
+Following these instructions to connect/clone your github to your VSCode on your laptop/PC
+- First time with github: https://kbroman.org/github_tutorial/pages/first_time.html
+- Clone an existing repository: https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository
+
+Besides, we could generate a public ssh key by following this url instruction: https://phoenixnap.com/kb/generate-ssh-key-windows-10
